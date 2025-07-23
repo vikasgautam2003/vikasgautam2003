@@ -1,34 +1,58 @@
-# 👋 Hi, I'm Vikas Gautam! `he/him`
+<h1 align="left">Hey 👋 What's up?</h1>
 
-🎓 3rd Year Computer Science Student  
-💻 Full-Stack Developer | Backend Enthusiast | OSS Contributor
+###
 
----
+<p align="left"># 👋 Hi, I'm Vikas Gautam! `he/him`<br><br>🎓 3rd Year Computer Science Student  <br>💻 Full-Stack Developer | Backend Enthusiast | AI Expert</p>
 
-## 🧠 About Me
+###
 
-- 🌱 Currently learning: **Next.js App Router**, **LangChain.js**, and **Prisma**
-- 💼 Working with: **MERN Stack**, **PostgreSQL**, **GoLang**
-- 🧰 Practicing DSA in Java daily for placement prep
-- 🧪 Love building web tools, games & utilities
-- 🌍 Interested in AI + Backend + Systems
+<h2 align="left">About me</h2>
 
----
+###
 
-## 🚀 Tech Stack
+<p align="left">- 🌱 Currently learning: **Next.js App Router** and **Prisma**<br>- 💼 Working with: **MERN Stack**, **PostgreSQL**, **GoLang**<br>- 🧰 Practicing DSA in Java daily for placement prep<br>- 🧪 Love building web tools, games & utilities<br>- 🌍 Interested in AI + Backend + Systems</p>
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss)
+###
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![Express](https://img.shields.io/badge/-Express-000?logo=express) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)
+<h2 align="left">I code with</h2>
 
-**Database**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)
+###
 
-**Tools**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+</div>
 
+###
 ---
 
 ## 📊 GitHub Stats
