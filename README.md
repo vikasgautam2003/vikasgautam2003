@@ -29,8 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -49,6 +47,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
@@ -65,18 +65,27 @@
 ## 📬 Connect with Me
 
 - 📧 vikasgautamug2003@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link) *(Update this)*  
-- 🌐 [Portfolio](https://your-portfolio.com) *(Optional: update when available)*
+- 💼 [LinkedIn](www.linkedin.com/in/vikas-gautam-ab5ab8278)  
 
 ---
 
 ## 🧩 Featured Projects
 
-- 🎮 **[Snake Game](https://github.com/vikasgautam2003/Snake-Game)** – Classic JS game using just HTML, CSS & JS  
-- ❓ **[Quiz App](https://github.com/vikasgautam2003/Quiz-App)** – Take topic-based quizzes  
-- 🌤️ **[Weather App](https://github.com/vikasgautam2003/Open-Weather-App)** – Real-time weather info via OpenWeather API  
-- 🎲 **[Scramble Word Game](https://github.com/vikasgautam2003/Scramble-Word-Game)** – Fun word puzzle game  
-- 🏢 **[Hostel Committee Site](https://github.com/vikasgautam2003/Hostel-Committee-Site)** – College IP Project
+### 🚀 [Learning Management System – MERN Stack](https://github.com/vikasgautam2003/Learning-Management-System--MERN-STACK)
+A full-featured LMS platform built with MongoDB, Express, React, and Node.js. Includes student, teacher, and admin roles for managing courses and users.
+
+### 🌐 [Gaming Website – Next.js](https://github.com/vikasgautam2003/Gaming-Website-with-Next-Js)
+A visually rich gaming portal built using **Next.js App Router** and **TypeScript**, showcasing advanced routing and component design.
+
+### 🔗 [URL Shortener – Go Lang](https://github.com/vikasgautam2003/URL-Shortner---Go-Lang)
+A lightweight backend application that shortens long URLs using **pure Go** – simple, fast, and efficient.
+
+### 🎬 [Next.js Movies Website](https://github.com/vikasgautam2003/Next-Js-Based-Movies-website)
+A dynamic movie site built with **Next.js** and **TypeScript**, using dynamic routing and reusable UI components.
+
+### 📊 [Front-end Dashboard – Next.js](https://github.com/vikasgautam2003/Front-end-Dashboard-Using-NextJs)
+A modern dashboard interface with charts, analytics, and responsive layout built using **Next.js** and **Tailwind CSS**.
+
 
 ---
 
