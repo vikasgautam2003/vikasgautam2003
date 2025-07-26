@@ -49,13 +49,6 @@
 ###
 ---
 
-## 📊 GitHub Stats
-
-![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasgautam2003&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgautam2003&layout=compact&theme=tokyonight)
-
----
-
 ## 📬 Connect with Me
 
 - 📧 vikasgautamug2003@gmail.com  
