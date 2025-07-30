@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🌱 Currently learning: **Websockets** **WebRTC** <br>- 💼 Working with: **Next.JS**, **Prisma**, **MERN Stack**, **PostgreSQL**, **GoLang**<br>- 🧰 Practicing DSA in Java daily for placement prep<br>- 🧪 Love building web tools, games & utilities<br>- 🌍 Interested in AI + Backend + Systems</p>
+<p align="left">- 🌱 Currently learning: **Redis** **Auth.Js** **WebRTC** <br>- 💼 Working with: **Next.JS**, **Prisma**, **MERN Stack**, **PostgreSQL**, **GoLang**<br>- 🧰 Practicing DSA in Java daily for placement prep<br>- 🧪 Love building web tools, games & utilities<br>- 🌍 Interested in AI + Backend + Systems</p>
 
 ###
 
