@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">- 🌱 Currently learning: **Redis** **Auth.Js** **WebRTC** **Docker** <br>- 💼 Working with: **Next.JS**, **Prisma**, **MERN Stack**, **PostgreSQL**, **GoLang**<br>- 🧰 Practicing DSA in Java daily for placement prep<br>- 🧪 Love building web tools, games & utilities<br>- 🌍 Interested in AI + Backend + Systems</p>
+<p align="left">
+- 🌱 Currently learning: <strong>Redis</strong>, <strong>Auth.Js</strong>, <strong>WebRTC</strong>, <strong>Docker</strong> <br>
+- 💼 Working with: <strong>Next.JS</strong>, <strong>Prisma</strong>, <strong>MERN Stack</strong>, <strong>PostgreSQL</strong>, <strong>GoLang</strong><br>
+- 🚀 Deploying with: Automated <strong>CI/CD</strong> on <strong>Vercel</strong> & <strong>Render</strong><br>
+- 🧰 Practicing DSA in Java daily for placement prep<br>
+- 🧪 Love building web tools, games & utilities<br>
+- 🌍 Interested in AI + Backend + Systems
+</p>
 
 ###
 
@@ -40,6 +47,12 @@
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="Prisma" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Golang" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   <img width="12" />
