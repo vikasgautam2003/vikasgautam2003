@@ -48,8 +48,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Golang" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/render/46E3B7" height="40" alt="Render" />
