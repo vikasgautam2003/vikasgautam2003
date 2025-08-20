@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-- 🌱 Currently learning: <strong>Redis</strong>, <strong>Auth.Js</strong>, <strong>WebRTC</strong> , <strong>NLP</strong>, <strong>JAVA Backend</strong>
+- 🌱 Currently learning: <strong>Redis</strong>, <strong>Auth.Js</strong>, <strong>WebRTC</strong> , <strong>NLP</strong>, <strong>JAVA Backend</strong>\ns
 - 💼 Working with: <strong>Next.JS</strong>, <strong>Prisma</strong>, <strong>MERN Stack</strong>, <strong>PostgreSQL</strong>, <strong>GoLang</strong><br>
 - 🚀 Deploying with: Automated <strong>CI/CD</strong> on <strong>Vercel</strong> & <strong>Render</strong><br>
 - 🧰 Practicing DSA in Java daily for placement prep<br>
